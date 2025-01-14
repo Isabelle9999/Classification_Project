@@ -1,0 +1,14 @@
+                             precision    recall  f1-score   support
+
+             adipose tissue     0.0000    0.0000    0.0000      2021
+                vasculature     0.0000    0.0000    0.0000       178
+         nomal breast gland     0.0000    0.0000    0.0000       105
+            invasive cancer     0.0000    0.0000    0.0000        44
+               Immune cells     0.0000    0.0000    0.0000        25
+atypical ductal hyperplasia     0.0000    0.0000    0.0000        23
+             cancer in situ     0.0000    0.0000    0.0000        23
+                   Necrosis     0.0017    1.0000    0.0033         4
+
+                   accuracy                         0.0017      2423
+                  macro avg     0.0002    0.1250    0.0004      2423
+               weighted avg     0.0000    0.0017    0.0000      2423
